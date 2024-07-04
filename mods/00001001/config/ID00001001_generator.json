@@ -1,0 +1,51 @@
+{
+    "ipdata": {
+        "comment": "IP Core Dummy",
+        "enom": "DUMMY",
+        "ipid": "00001001"
+    },
+    "memories": {
+        "cfgReg": {
+            "comment": "Delay Config",
+            "enom": "CDELAY",
+            "size": "1",
+            "val": "5'b00100"
+        },
+        "memIn": [
+            {
+                "comment": "Input Data Memory ",
+                "enom": "MDATAIN",
+                "size": "64",
+                "val": "5'b00000"
+            }
+        ],
+        "memInStream": {
+        },
+        "memOut": [
+            {
+                "comment": "Output Data Memory",
+                "enom": "MDATAOUT",
+                "size": "64",
+                "val": "5'b00010"
+            }
+        ],
+        "memOutStream": {
+        }
+    },
+    "regs": {
+        "reg1": "",
+        "reg10": "",
+        "reg11": "",
+        "reg12": "",
+        "reg13": "",
+        "reg14": "",
+        "reg15": "",
+        "reg2": "",
+        "reg3": "",
+        "reg4": "",
+        "reg5": "",
+        "reg6": "",
+        "reg7": "",
+        "reg9": ""
+    }
+}

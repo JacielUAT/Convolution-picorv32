@@ -1,0 +1,10 @@
+../../../../basicblocks/aip/aipModules.v
+../../../../basicblocks/memories/simple_dual_port_ram_single_clk.v
+
+../../src/ID00001001_dummyCtrl.v
+../../src/ID00001001_dummyCore.v
+../../src/ID00001001_aip.v
+../../src/ID00001001_dummy.v
+
+../ID00001001_dummyTb.sv
+../ID00001001_dummyAIPTb.sv
